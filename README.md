@@ -24,8 +24,8 @@ A modern showcase of next-intl translation capabilities in a Next.js application
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/afghangeeks/next-intl-demo.git
-cd next-intl-demo
+git clone https://github.com/jafarimurtaza/next-intl-demo-afghangeeks.git
+cd next-intl-demo-afghangeeks
 ```
 
 2. Install dependencies:
