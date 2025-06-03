@@ -2,6 +2,10 @@
 
 A modern showcase of next-intl translation capabilities in a Next.js application, developed by Afghan Geeks. This project demonstrates how to implement internationalization (i18n) in a Next.js application using the next-intl library, including RTL (Right-to-Left) language support.
 
+# Demo:
+
+[Demo](https://next-intl-demo-afghangeeks.vercel.app/en)
+
 ## Features
 
 - 🌐 Dynamic language switching
