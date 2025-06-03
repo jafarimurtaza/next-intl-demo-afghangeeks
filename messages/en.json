@@ -1,0 +1,31 @@
+{
+  "HomePage": {
+    "title": "Next.js Internationalization Demo",
+    "subtitle": "A powerful showcase of next-intl translation capabilities",
+    "home": "Home",
+    "insights": "Insights",
+    "music": "Music",
+    "food": "Food",
+    "about": "About",
+    "features": "Features",
+    "feature1": {
+      "title": "Dynamic Language Switching",
+      "description": "Seamlessly switch between languages with instant updates across your entire application"
+    },
+    "feature2": {
+      "title": "Type-Safe Translations",
+      "description": "Enjoy full TypeScript support with type-safe translation keys and parameters"
+    },
+    "translationShowcase": {
+      "title": "Try Different Languages",
+      "description": "Experience the power of internationalization by switching between different languages"
+    },
+    "languages": {
+      "en": "English",
+      "fa": "فارسی"
+    }
+  },
+  "AboutPage": {
+    "title": "About page"
+  }
+}
